@@ -9,11 +9,10 @@ I also like building Legos and play Billard with my friends.
 This is an overview of all currently public Projects I have
 ### [NUBot](https://github.com/Leguan16/NUBot)
 NUBot is a Discord bot written in JS. Its basically my "how to JS" since its my first project in JS.
-### [discord4jBot](https://github.com/Leguan16/discord4jBot)
-This repo is currently just a dead repo. I created it a day before I realized how cool it is to program in JS
 ### [countdown](https://github.com/Leguan16/countdown)
 This is a little website to display the time until my birthday
-### []()
+### [SmartInvs](https://github.com/Leguan16/SmartInvs)
+A fork of the original [SmartInvs](https://github.com/MinusKube/SmartInvs) which uses the new, updated Paper API.
 <!---
 Leguan16/Leguan16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
