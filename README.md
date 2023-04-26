@@ -4,7 +4,7 @@ Hi 👋 My name is Noah
 Java Developer
 --------------
 
-I am 18 years old. I created my first Minecraft Plugin 7 years ago and found my passion for programming because of it. I am currently learning JavaScript with coding a Discord bot with it. I also like building Legos and play Billard with my friends.
+I am 19 years old. I created my first Minecraft Plugin 7 years ago and found my passion for programming because of it. I am currently learning JavaScript with coding a Discord bot with it. I also like building Legos and play Billard with my friends.
 
 * I'm based in Austria
 * I'm learning Vue and Spring
