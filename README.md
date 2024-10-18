@@ -17,6 +17,8 @@ In my freetime I am working as a developer at [StaticStudios](https://github.com
 This is an overview of all currently public Projects I have
 ### [Invsee](https://github.com/Leguan16/Invsee)
 A modern Invsee plugin for Paper and Folia Minecraft Servers. 
+### [Mineimal](https://github.com/Leguan16/Mineimal)
+A minimal Minecraft Launcher written in Rust.
 ### [NUBot](https://github.com/Leguan16/NUBot)
 NUBot is a Discord bot written in JS. Its basically my "how to JS" since its my first project in JS. 
 While the project isn't active anymore it helped me to understand and expand my knowledge about JavaScript.
