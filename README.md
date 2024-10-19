@@ -3,7 +3,7 @@
 
 Currently learning Rust with my custom Minecraft Launcher Mineimal. 
 
-In my freetime I am working as a developer at [StaticStudios](https://github.com/StaticStudios) working on a Skyblock server.
+In my freetime I am working as a developer at [StaticStudios](https://github.com/StaticStudios) creating a Skyblock server.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/noahsbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noahsbh" height="30" width="40" /></a>
